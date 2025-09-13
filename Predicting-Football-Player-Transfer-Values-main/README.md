@@ -1,11 +1,6 @@
 # **Predicting Football Player Transfer Values**
 
 
-<img src="images/players.png" width="800">
-
-
-Project by: **Sanjit Varma**
-
 
 # Table of Contents
 * [Business Problem](#business-problem)
@@ -325,14 +320,6 @@ Given our conclusion that on-field performance is not the only predictor of play
 
 
 # Contributor
-
-<img src="images/sanjit.png" width="300">
-
-**Sanjit Varma** <br>
-    **Github**: www.github.com/sanjitva<br>
-    **Linkedin**: www.linkedin.com/in/sanjit-varma-624ba410a/<br>
-    **Email**: sanjitva@gmail.com
-
 
 # Project Structure
 
